@@ -1,1 +1,6 @@
 My friend is a complete idiot.
+
+
+#for pull
+-add a file in remote repository and commit the changes
+-go to git bash, git fetch origin(to remove a conflict, we will use a fetch rather than pull)
