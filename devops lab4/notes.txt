@@ -1,0 +1,10 @@
+experiment-3
+-create a remote repo and working directory and push a file to the remote repo
+-go to gitbash and create a new branch with a command git branch <branch-name>
+-to check which branch we are currently working on, use git branch
+-in order to switch between the branches, we have two commands, switch and checkout
+git checkout <branch-name> or git switch <branch-name>
+-to combine both the steps in one, git checkout -b <branch-name>
+-to use with switch, git switch -c <branch-name> 
+-to delete a branch, git branch -D <branch-name>
+-pushing to a branch
