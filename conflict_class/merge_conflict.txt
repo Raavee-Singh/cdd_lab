@@ -1,1 +1,2 @@
 a file for a merge conflict
+this is my second commit
